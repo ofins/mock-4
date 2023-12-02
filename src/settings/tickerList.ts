@@ -36,44 +36,44 @@ export const defaultTickerList = [
   },
   {
     tickerSlot: 6,
-    ticker: '',
-    tickerSymbol: '',
+    ticker: 'apecoin',
+    tickerSymbol: 'APE',
     price: 0,
     isShowInput: false
   },
   {
     tickerSlot: 7,
-    ticker: '',
-    tickerSymbol: '',
+    ticker: 'matic-network',
+    tickerSymbol: 'MATIC',
     price: 0,
     isShowInput: false
   },
   {
     tickerSlot: 8,
-    ticker: '',
-    tickerSymbol: '',
+    ticker: 'cardano',
+    tickerSymbol: 'ADA',
     price: 0,
     isShowInput: false
   },
   {
     tickerSlot: 9,
-    ticker: '',
-    tickerSymbol: '',
+    ticker: 'ripple',
+    tickerSymbol: 'XRP',
     price: 0,
     isShowInput: false
   },
   {
     tickerSlot: 10,
-    ticker: '',
-    tickerSymbol: '',
+    ticker: 'tron',
+    tickerSymbol: 'TRON',
     price: 0,
     isShowInput: false
   },
   {
     tickerSlot: 11,
-    ticker: '',
-    tickerSymbol: '',
+    ticker: 'dogecoin',
+    tickerSymbol: 'DOGE',
     price: 0,
     isShowInput: false
-  },
+  }
 ]
